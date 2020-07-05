@@ -160,12 +160,12 @@ section {
 }
 
 #team,
-#testimonial {
+#commitments {
     background: #f9f9f9;
 }
 
 #team,
-#testimonial {
+#commitments {
     text-align: center;
 }
 
@@ -272,7 +272,7 @@ section {
 }
 
 .custom-navbar .navbar-nav.navbar-nav-first {
-    margin-left: 20em;
+    margin-left: 12em;
 }
 
 .custom-navbar .navbar-nav.navbar-right li a {
@@ -471,7 +471,10 @@ section {
 }
 
 .team-info {
-    padding: 20px 30px;
+    padding-top: 50px;
+    height: 165px;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .team-image img {
@@ -621,23 +624,22 @@ section {
 }
 
 /*---------------------------------------
-    TESTIMONIAL             
+    commitments             
 -----------------------------------------*/
 
-#testimonial .item {
-    background: #ffffff;
+#commitments .item {
     margin: 20px 0;
     padding: 4em 3em;
     text-align: left;
 }
 
 #courses .col-md-4,
-#testimonial .col-md-4 {
+#commitments .col-md-4 {
     display: block;
     width: 100%;
 }
 
-#testimonial .item > p {
+#commitments .item > p {
     font-size: 16px;
     line-height: 26px;
 }
@@ -955,7 +957,7 @@ footer .social-icon {
         font-size: 1.8em;
     }
 
-    #testimonial .item {
+    #commitments .item {
         padding: 2em;
     }
 
