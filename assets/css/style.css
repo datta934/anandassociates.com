@@ -697,3 +697,11 @@ footer .social-icon {
         font-size: 14px;
     }
 }
+
+.card {
+    border: 1px solid #f0f0f0;
+    padding: 2em;
+    height: 350px;
+    vertical-align: middle;
+    display: table-cell;
+}
